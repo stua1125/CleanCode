@@ -1,7 +1,7 @@
 /**
  * 
  */
-package cleanCode.chapert6.objectAndStructure.shapes;
+package cleanCode.chapter06.objectAndStructure.shapes;
 
 /**
  * @author one

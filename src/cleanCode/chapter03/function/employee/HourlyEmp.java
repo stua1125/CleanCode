@@ -1,4 +1,4 @@
-package cleanCode.chapter3.function.employee;
+package cleanCode.chapter03.function.employee;
 
 import java.math.BigDecimal;
 

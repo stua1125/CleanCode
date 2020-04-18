@@ -1,4 +1,4 @@
-package cleanCode.chapter3.function.employee;
+package cleanCode.chapter03.function.employee;
 
 public interface EmployeeFactory {
 	public Employee makeEmployee(EmployeeRecode r) throws InvalidEmployeeType;

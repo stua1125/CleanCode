@@ -2,7 +2,7 @@
  * p.121 새함수를 추가하고 싶다면 도형 클래스를 전부 고쳐야한다.
  * VISOTOR기법이로 문제를 해결한다.
  */
-package cleanCode.chapert6.objectAndStructure.shapes;
+package cleanCode.chapter06.objectAndStructure.shapes;
 
 import java.awt.Point;
 
