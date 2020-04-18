@@ -1,4 +1,4 @@
-package cleanCode.chapert6.objectAndStructure;
+package cleanCode.chapert6.objectAndStructure.shapes;
 
 public class ShapesElementDoVisitor implements ShapeElementVisitor {
 

@@ -1,4 +1,4 @@
-package cleanCode.chapter3.function;
+package cleanCode.chapter3.function.employee;
 
 public class InvalidEmployeeType extends Exception{
 

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package cleanCode.chapert6.objectAndStructure;
+package cleanCode.chapert6.objectAndStructure.shapes;
 
 import javax.swing.text.html.parser.Element;
 
